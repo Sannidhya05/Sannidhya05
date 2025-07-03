@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sannidhya</h1>
+<h3 align="center">A passionate AI enthusiast and builder of generative tools from India 🇮🇳</h3>
 
-<!--
-**Sannidhya05/Sannidhya05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sannidhya05&label=Profile%20views&color=0e75b6&style=flat" alt="Sannidhya05" />
+</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **building generative AI tools, LLM-based apps, and innovative SaaS products for creators**
+- 🌱 I’m learning **full-stack development, cloud deployment, and advanced NLP**
+- 👯 I’m looking to collaborate on **AI-driven projects, open source ML libraries, or anything creative with GenAI**
+- 💬 Ask me about **Python, ML/DL, prompt engineering, and building prototypes fast**
+- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/sannidhyajaiswal)**
+- ⚡ Fun fact: I love exploring how technology can automate and enhance storytelling 🎥✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+- [**YouTube AI Summarizer**](https://github.com/Sannidhya05/): An app that generates instant summaries from YouTube videos using LLMs.
+- [**SOP Generator**](https://github.com/Sannidhya05/): A generative AI tool for drafting Statements of Purpose for university applications.
+- [**Hackathon Projects**](https://github.com/Sannidhya05/): Contributions and prototypes created during hackathons, focusing on generative AI and SaaS ideas.
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sannidhya05&show_icons=true&theme=radical" alt="Sannidhya05" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sannidhya05&theme=radical" alt="Sannidhya05" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sannidhya05&layout=compact&theme=radical" alt="Sannidhya05" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sannidhya05&theme=radical&margin-w=15&margin-h=15" alt="trophies" />
+</p>
