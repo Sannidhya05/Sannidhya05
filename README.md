@@ -35,13 +35,5 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sannidhya05&show_icons=true&theme=radical" alt="Sannidhya05" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sannidhya05&theme=radical" alt="Sannidhya05" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sannidhya05&layout=compact&theme=radical" alt="Sannidhya05" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sannidhya05&theme=radical&margin-w=15&margin-h=15" alt="trophies" />
 </p>
