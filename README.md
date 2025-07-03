@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sannidhyac(not me in the pfp)</h1>
+<h1 align="center">Hi 👋, I'm Sannidhya</h1>  (not me in the pfp)
 <h3 align="center">A passionate AI enthusiast and builder of generative tools from India 🇮🇳</h3>
 
 <p align="left">
